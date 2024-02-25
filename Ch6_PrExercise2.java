@@ -1,5 +1,4 @@
-/*Write a GUI program that converts seconds to years, weeks, days, hours, and minutes. 
-For this problem, assume 1 year is 365 days. */
+/*Write a GUI program that converts seconds to years, weeks, days, hours, and minutes. For this problem, assume 1 year is 365 days. */
 
 package Ch6_PrExercise2;
 import javax.swing.*;
