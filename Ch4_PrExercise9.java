@@ -1,3 +1,5 @@
+//Write a program that mimics a calculator. The program should take as input two integers and an arithmetic operation (+,-,*,or/) to be performed. It should then output the numbers, the operator, and the result. (For division, if the denominator is zero, output an appropriate message.)
+
 package Ch4_PrExercise9;
 import java.util.*;
 import java.io.*;
