@@ -1,3 +1,4 @@
+//Write a program that prompts the user to input five decimal numbers. The program should then add the five decimal numbers, convert the sum to the nearest integer, and print the result.
 package Ch2_PrExercise8;
 
 import java.util.*;
