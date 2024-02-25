@@ -1,3 +1,5 @@
+//You are given a file consisting of students’ names in the following form: lastName firstName middleName. (Note that a student may not have a middle name.) Write a program that converts each name to the following form: firstName middleName lastName. Your program must read each student’s entire name in an object and must consist of a method that takes as input a string, consisting of a student’s name, and returns the string consisting of the altered name. Use the string method index to find the index of “,” , the method length to find the length of the string, and the method substring to extract the firstName, middleName, and lastName. (String methods are described in Chapter 3.)
+
 package Ch7_PrExercise16;
 import java.util.*;
 import java.io.*;
