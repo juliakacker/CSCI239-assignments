@@ -1,3 +1,5 @@
+//Write a program that prompts the capacity, in gallons, of an automobile fuel tank and the miles per gallons the automobile can be driven. The program outputs the number of miles the automobile can be driven without refueling.
+
 package Ch2_PrExercise10;
 import java.util.*;
 
