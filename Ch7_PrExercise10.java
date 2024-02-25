@@ -1,3 +1,7 @@
+/* Rewrite the program in Programming Exercise 15 from Chapter 4 (cell phone) so that it uses the following methods to calculate the billing amount. (In this programming exercise, do not output the number of minutes during which the service is used.)
+1. regularBill: This method calculates and returns the billing amount for regular service.
+2. premiumBill: This method calculates and returns the billing amount for premium service. */
+
 package Ch7_PrExercise10;
 
 import java.util.*;
