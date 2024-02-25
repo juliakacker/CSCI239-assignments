@@ -1,17 +1,4 @@
-/* To make telephone numbers easier to remember, some companies use letters to show their 
-telephone number. For example, the telephone number 438-5626 can be shown as GET-LOAN. 
-In some cases, to make a telephone number meaningful, companies might use more than seven letters. 
-For example, 225-5466 can be displayed as CALL-HOME, which uses eight letters. 
-Write a program that prompts the user to enter a telephone number expressed in letters 
-and outputs the corresponding telephone number in digits. If the user enters more than eight letters, 
-then process only the first seven letters. Also, output the – (hyphen) after the third digit. 
-Allow the user to use uppercase and lowercase letters, as well as spaces between words. 
-More-over, your program should process as many telephone numbers as the user wants. 
-(Hint: You can read the entered telephone number as a string and then use the charAt method 
-of the classString to extract each character. For example, if str refers to a string, 
-then the expression str.charAt(i) returns the character at the ith position. Recall that in a string, 
-the position of the first character is 0.) */
-
+// To make telephone numbers easier to remember, some companies use letters to show their telephone number. For example, the telephone number 438-5626 can be shown as GET-LOAN. In some cases, to make a telephone number meaningful, companies might use more than seven letters. For example, 225-5466 can be displayed as CALL-HOME, which uses eight letters. Write a program that prompts the user to enter a telephone number expressed in letters and outputs the corresponding telephone number in digits. If the user enters more than eight letters, then process only the first seven letters. Also, output the – (hyphen) after the third digit. Allow the user to use uppercase and lowercase letters, as well as spaces between words. More-over, your program should process as many telephone numbers as the user wants. (Hint: You can read the entered telephone number as a string and then use the charAt method of the classString to extract each character. For example, if str refers to a string, then the expression str.charAt(i) returns the character at the ith position. Recall that in a string, the position of the first character is 0.)
 package Ch5_PrExercise5;
 import java.util.*;
 import java.io.*;
