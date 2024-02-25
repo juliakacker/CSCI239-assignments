@@ -1,5 +1,4 @@
-/*Write a GUI program to convert all lowercase letters in a string to uppercase letters, and vice verse. 
- For example, Alb34eRt will be converted to aLB34ErT.*/
+/*Write a GUI program to convert all lowercase letters in a string to uppercase letters, and vice verse. For example, Alb34eRt will be converted to aLB34ErT.*/
 
 package Ch6_PrExercise5;
 
