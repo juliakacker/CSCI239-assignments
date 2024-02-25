@@ -1,3 +1,5 @@
+//Write a program that prompts the user to input three numbers. The program should then output the numbers in nondescending order.
+
 package Ch4_PrExercise2;
 import java.util.*;
 import java.io.*;
